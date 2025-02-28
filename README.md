@@ -1,14 +1,19 @@
-# HTML to Markdown PHP Converter
+# HTML to Markdown Converter
 
-Single-file PHP solution for converting HTML to Markdown.
+A simple PHP tool for converting HTML to Markdown format.
+
+---
+
+**Created by** [Alam Store](https://alamstore.com)
+
+## Features
+- Single-file solution
+- Web interface
+- CLI support
+- Basic HTML sanitization
 
 ## Usage
+...
+# HTML to Markdown Converter [![By Alam Store](https://img.shields.io/badge/Created_by-Alam_Store-important?style=flat&logo=github&link=https://alamstore.com)](https://alamstore.com)
 
-### Web Interface
-1. Upload to any PHP host
-2. Visit the page
-3. Paste HTML and convert
-
-### Command Line
-```bash
-php index.php input.html output.md
+A PHP-based conversion tool...

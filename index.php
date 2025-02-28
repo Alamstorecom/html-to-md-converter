@@ -1,7 +1,7 @@
 <?php
 /* 
 HTML to Markdown Converter (single-file PHP solution)
-Repo: https://github.com/yourusername/html-to-md-converter
+Repo: https://github.com/Alamstorecom/html-to-md-converter
 */
 
 // ================== CONVERSION FUNCTIONS ================== //

@@ -56,7 +56,7 @@ These codes no longer work, but keep an eye out in case they’re reactivated:
 
 ## How to Redeem Elemental Odyssey Codes 🛠️
 
-[![How to Redeem Elemental Odyssey Codes](https://alamstore.com/wp-content/uploads/2025/03/5-300x169.png)]https://alamstore.com/my-hello-kitty-cafe-codes/)
+[![How to Redeem Elemental Odyssey Codes](https://alamstore.com/wp-content/uploads/2025/03/5-300x169.png)](https://alamstore.com/my-hello-kitty-cafe-codes/)
 
 Redeeming your **Elemental Odyssey codes** is simple. Just follow these steps:
 
